@@ -1,0 +1,38 @@
+:global(:root) {
+	--rotoclear-grey: #525355;
+	--icon-button-size: 30px;
+	--flaming-inferno: #ff2600;
+	--midnight-surf: #102335;
+	--midnight-surf-opacity-69: #102335af;
+	--polar-white: #ffffff;
+	--polar-white-opacity-69: #ffffffaf;
+	--deep-ocean: #0764ba;
+	--lavender-dream: #9026c4;
+	--royal-indigo: #0000c7;
+	--minty-fresh: #82e0ae;
+	--emerald-forest: #0f8637;
+	--cotton-candy: #f793d6;
+	--neon-orchid: #e200e2;
+	--skyline-blue: #1c9bd9;
+	--tropical-sea: #00e6e6;
+	--lime-twist: #85c700;
+	--sunflower-gold: #ffd500;
+	--tangerine-sunset: #fd8208;
+	--crimson-fire: #c70000;
+	--box-shadow: 0px 13px 30px #00000029;
+
+	--max-width: 100%;
+	--container-padding: 0px;
+	@media screen and (min-width: 768px) {
+		--container-padding: 15px;
+	}
+	@media screen and (min-width: 992px) {
+		--container-padding: 30px;
+	}
+	@media screen and (min-width: 1200px) {
+		--container-padding: 175px;
+	}
+	@media screen and (min-width: 1565px) {
+		--max-width: 1565px;
+	}
+}

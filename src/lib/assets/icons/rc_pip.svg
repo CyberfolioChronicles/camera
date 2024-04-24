@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Quickbuttons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #001427;
+        opacity: .4;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_118" data-name="Ellipse 118" class="cls-2" cx="22.04" cy="22.2" r="22"/>
+  <path class="cls-1" d="m22.04,40.7c-10.2,0-18.5-8.3-18.5-18.5S11.84,3.7,22.04,3.7s18.5,8.3,18.5,18.5-8.3,18.5-18.5,18.5Zm0-35.68c-9.47,0-17.18,7.71-17.18,17.18s7.71,17.18,17.18,17.18,17.18-7.71,17.18-17.18S31.52,5.02,22.04,5.02Z"/>
+  <rect class="cls-1" x="11.04" y="15.54" width="22" height="13.32"/>
+</svg>
